@@ -1,0 +1,8 @@
+<html>
+  <head>
+    <title>Abdullah YAZICI</title>
+  </head>
+  <body>
+    <p>Hosgeldiniz! <strong>body</strong> Abdullah YAZICI <strong>p</strong> TURKIYE</p>
+  </body>
+</html>
